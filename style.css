@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+;
+:root{
+
+   --Verde-pastel: #E9F5DB;
+   --Verde-Claro: #CFE1B9;
+   --Verde :#97A97C;
+    --Verde-Escuro: #87986A;
+
+}
+.cabecalho{
+    background-color: aquamarine;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+padding: 0 2em;
+}
+
+.cabecalho-imagem{
+    width: 5%;
+    border-radius: 100%;
+    margin: 1em;
+}
+
+.cabelo-lista-link{
+    text-decoration: none;
+    color: white;
+    margin-right: 1.5em;
+    font-size: 1.5em;
+}
+
+.escola{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
